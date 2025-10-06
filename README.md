@@ -27,6 +27,8 @@ sportmaster-sales-analysis/
 
   │ ├──EDA.ipynb #проведение разведочного анализа
 
+  │ ├──ABC-analysis result.png #итоговый график ABC-анализа
+
 
 ## Ключевые этапы работы
 
