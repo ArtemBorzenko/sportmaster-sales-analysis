@@ -21,13 +21,13 @@ sportmaster-sales-analysis/
 
 ├── notebooks/
 
-  │ ├──preprocessing.ipynb #предобработка данных
+  │ ├──ABC-analysis result.png #итоговый график ABC-анализа
 
   │ ├──ABC-analysis.ipynb #проведение ABC-анализа
 
   │ ├──EDA.ipynb #проведение разведочного анализа
 
-  │ ├──ABC-analysis result.png #итоговый график ABC-анализа
+  │ ├──preprocessing.ipynb #предобработка данных
 
 
 ## Ключевые этапы работы
